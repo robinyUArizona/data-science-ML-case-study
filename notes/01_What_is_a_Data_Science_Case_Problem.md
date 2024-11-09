@@ -13,6 +13,6 @@ Data Scientist, Marketing @ Apple <br>
 
 **Response Framework** <br>
 Provide an effective response in 5 steps.
-![Alt text](images/five_steps_response_data_science_case_study.png)
+![Alt text](images/5_step_response_data_science_case_study.png)
 
 
